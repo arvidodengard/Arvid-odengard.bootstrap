@@ -15,47 +15,59 @@
     
     .HTML {
         background-color: aqua;
+        color: rgb(148, 89, 21);
     }
     
     .ID {
-        background-color: darkorange;
+        background-color: rgb(196,164,124);
         color:darkviolet;
     }
     
     .Meta {
         background-color: aqua;
+        color: rgb(148, 89, 21);
     }
     
     .Responsive {
-        background-color: darkorange;
+        background-color: rgb(196,164,124);
         color:darkviolet;
     }
     
     .Https {
         background-color: aqua;
+        color: rgb(148, 89, 21);
     }
     
     .Compressed-data {
-        background-color: darkorange;
+        background-color: rgb(196,164,124);
         color:darkviolet;
     }
     
     .Local-bootstrap {
         background-color: aqua;
+        color: rgb(148, 89, 21);
     }
     
     .JQuery {
-        background-color: darkorange;
+        background-color: rgb(196,164,124);
         color:darkviolet;
     }
     
     .Grid {
         background-color: aqua;
+        color: rgb(148, 89, 21);
     }
     
     .Code-snippets {
-        background-color: darkorange;
+        background-color: rgb(196,164,124);
         color:darkviolet;
     }
+
+    footer {
+        text-align: center;
+        padding: 2px;
+        background-color: white;
+        color: red;
+      }
  
 
