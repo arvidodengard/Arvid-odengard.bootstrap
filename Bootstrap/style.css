@@ -1,14 +1,61 @@
 .container {
-color: rgb(161, 7, 7);
-text-align: center;
-margin-right: auto;
-margin-left: auto;
-}
+    color: rgb(161, 7, 7);
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+    }
+    
+    h1, .h1 {
+        font-size: 5rem;
+    }
+    
+    body {
+        background-color: rgb(0, 0, 0);
+    }
+    
+    .HTML {
+        background-color: aqua;
+    }
+    
+    .ID {
+        background-color: darkorange;
+        color:darkviolet;
+    }
+    
+    .Meta {
+        background-color: aqua;
+    }
+    
+    .Responsive {
+        background-color: darkorange;
+        color:darkviolet;
+    }
+    
+    .Https {
+        background-color: aqua;
+    }
+    
+    .Compressed-data {
+        background-color: darkorange;
+        color:darkviolet;
+    }
+    
+    .Local-bootstrap {
+        background-color: aqua;
+    }
+    
+    .JQuery {
+        background-color: darkorange;
+        color:darkviolet;
+    }
+    
+    .Grid {
+        background-color: aqua;
+    }
+    
+    .Code-snippets {
+        background-color: darkorange;
+        color:darkviolet;
+    }
+ 
 
-h1, .h1 {
-    font-size: 5rem;
-}
-
-body {
-    background-color: rgb(0, 0, 0);
-}
