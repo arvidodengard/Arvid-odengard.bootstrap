@@ -1,14 +1,14 @@
+/* Ändrade standard färgen på allt i containern och centrerade texten*/
 .container {
     color: rgb(161, 7, 7);
     text-align: center;
-    margin-right: auto;
-    margin-left: auto;
     }
     
+    /* Ändrar storleken på alla h1 taggars text */
     h1, .h1 {
         font-size: 5rem;
     }
-    
+    /* Gör sedan ett fortsatt mönster med att ändra färg på text och bakrund */
     body {
         background-color: rgb(0, 0, 0);
     }
@@ -63,6 +63,7 @@
         color:darkviolet;
     }
 
+    /* Ändrar min footers bild och storlek */
     footer {
         text-align: center;
         padding: 2px;
